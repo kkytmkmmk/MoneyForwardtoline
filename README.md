@@ -1,0 +1,2 @@
+# MoneyForwardtoline
+マネーフォワードの情報をgithub actionを使い収集し，lineに通知する
